@@ -6,10 +6,11 @@
 
 I'm machamp
 
--   :crossed_swords: Ruby / Terraform / TypeScript / AWS
--   :office: I'm currently working at ruffnote
--   :seedling: I'm currently learning **Next.js** **TypeScript**
+- :crossed_swords: Ruby / Terraform / TypeScript / AWS
+- :office: I'm currently working at [ruffnote](https://co.ruffnote.com/company)
+- :seedling: I'm currently learning **Next.js** **TypeScript**
 
+<br>
 <br>
 <br>
 

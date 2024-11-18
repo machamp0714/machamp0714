@@ -24,14 +24,6 @@ I'm machamp
 <a href="https://twitter.com/machamp0714" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <h3>💚 My Favorite Tech</h3>
 
 <table>

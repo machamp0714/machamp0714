@@ -8,7 +8,7 @@ I'm machamp
 
 - :crossed_swords: Ruby / Terraform / TypeScript / AWS
 - :office: I'm currently working at [ruffnote](https://co.ruffnote.com/company)
-- :seedling: I'm currently learning **Next.js** **TypeScript**
+- :seedling: I'm currently learning **Rust**
 
 <br>
 <br>
@@ -23,6 +23,9 @@ I'm machamp
 <a href="https://github.com/machamp0714" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/machamp0714" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>💚 My Favorite Tech</h3>
 
@@ -46,12 +49,6 @@ I'm machamp
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/go-language-official.svg" width="48" height="48" />
-      </a>
-      <br>Go
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -71,12 +68,6 @@ I'm machamp
         <img src="./img/react-icon.svg" width="48" height="48" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/docker-tile.svg" width="48" height="48" />
-      </a>
-      <br>Docker
     </td>
   </tr>
 </table>

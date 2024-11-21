@@ -26,6 +26,9 @@ I'm machamp
 
 <h3>💚 My Favorite Tech</h3>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table>
   <tr>
     <td align="center" width="96">

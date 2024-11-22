@@ -70,4 +70,13 @@ I'm machamp
 </table>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.91 %
+Markdown     3 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+Ruby         1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Rust         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Terraform    1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+```
+
 <!--END_SECTION:waka-->

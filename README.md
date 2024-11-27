@@ -72,11 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 16 mins  █████████▒░░░░░░░░░░░░░░░   37.23 %
-Rust         5 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Markdown     3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Ruby         2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Other        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TypeScript   10 hrs 54 mins  ████████▓░░░░░░░░░░░░░░░░   34.79 %
+Ruby         6 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+Rust         5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+Other        3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Markdown     1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->

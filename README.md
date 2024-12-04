@@ -72,11 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         8 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.46 %
-TypeScript   5 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-YAML         5 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-Terraform    2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Markdown     2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TypeScript   6 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+Ruby         5 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+YAML         5 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Terraform    2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+HCL          2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->

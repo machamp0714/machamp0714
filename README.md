@@ -72,7 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 mins          █████████████████████████   100.00 %
+TypeScript   2 hrs 11 mins   ██████████████████▒░░░░░░   72.77 %
+Other        36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Ruby         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->

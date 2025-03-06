@@ -72,11 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       16 hrs 52 mins  ███████████▓░░░░░░░░░░░░░   47.07 %
-Terraform    8 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-Ruby         4 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Other        2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Kotlin       16 hrs 53 mins  █████████████░░░░░░░░░░░░   51.95 %
+Terraform    6 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
+Ruby         4 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Other        2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->

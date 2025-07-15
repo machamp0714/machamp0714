@@ -72,11 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform            9 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.71 %
-Ruby                 4 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-TypeScript           3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Other                2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-TSConfig             1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Terraform            10 hrs 53 mins  ██████████░░░░░░░░░░░░░░░   40.46 %
+Ruby                 4 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Terraform Template   3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+TypeScript           3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+TSConfig             1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:waka-->

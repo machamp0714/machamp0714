@@ -72,11 +72,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           22 hrs 37 mins  ████████████░░░░░░░░░░░░░   47.97 %
-Terraform            6 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Docker               4 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Ruby                 4 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JSON                 3 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+TypeScript           19 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   43.26 %
+Ruby                 6 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Docker               6 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Terraform            6 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+JSON                 1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->

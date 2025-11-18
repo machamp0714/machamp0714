@@ -70,11 +70,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         6 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-Markdown     5 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-TypeScript   4 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-JSON         1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Other        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Ruby         8 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
+TypeScript   7 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+Markdown     5 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+JSON         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Other        1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->

@@ -70,11 +70,11 @@ I'm machamp
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          4 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-TypeScript   4 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-Markdown     3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-HTML         1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Terraform    1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+TypeScript   5 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+PHP          4 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+Markdown     4 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+JSON         2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+HTML         1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 ```
 
 <!--END_SECTION:waka-->

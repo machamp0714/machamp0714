@@ -1,17 +1,7 @@
 ## Hey, machamp here! :wave:
 
-<a href="https://github.com/machamp0714">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=machamp0714&count_private=true&theme=buefy&show_icons=true" />
-</a>
-
-I'm machamp
-
-- :crossed_swords: Ruby / Terraform / TypeScript / AWS
-- :office: I'm currently working at [ruffnote](https://co.ruffnote.com/company)
-
-<br>
-<br>
-<br>
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ---
 

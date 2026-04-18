@@ -62,11 +62,11 @@ Last Updated on 4/18/2026, 12:28:26 AM</p>
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      11 hrs 47 mins        ████████░░░░░░░░░░░░░░░░░   32.61 %
-Ruby            6 hrs 52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-Other           6 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-TypeScript      2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Markdown        2 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JavaScript      9 hrs 52 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
+Ruby            6 hrs 23 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+Other           4 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Markdown        1 hr 50 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+YAML            1 hr 48 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->

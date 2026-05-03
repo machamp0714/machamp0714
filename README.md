@@ -62,11 +62,11 @@ Last Updated on 5/3/2026, 12:37:13 AM</p>
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         10 hrs 21 mins        ████████▓░░░░░░░░░░░░░░░░   35.13 %
-Other        7 hrs 10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Terraform    3 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Markdown     3 hrs 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Haml         1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Ruby         10 hrs 31 mins        █████████▒░░░░░░░░░░░░░░░   37.35 %
+Other        7 hrs 33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Markdown     3 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Terraform    3 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Jsonnet      1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->

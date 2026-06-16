@@ -62,11 +62,7 @@ Last Updated on 6/16/2026, 12:55:53 AM</p>
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     43 mins               █████████████▒░░░░░░░░░░░   52.76 %
-Other        31 mins               █████████▓░░░░░░░░░░░░░░░   38.88 %
-Terraform    3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-HTML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

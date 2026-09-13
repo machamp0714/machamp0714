@@ -1,9 +1,8 @@
 ## Hey, machamp here! :wave:
 
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/4MVR12H" target="_blank" rel="noopener noreferrer"><img alt="4MVR12HのLAPRASでのスコアは次の通りです: エンジニアリング: 3.81 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.21 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.81&b=3.48&i=3.21&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 9/13/2026, 2:55:32 AM</p>
-<!--END_SECTION:lapras-card-->
+<!--START_SECTION:featured-race-->
+<img src="./assets/featured-race-20260920-3fbcd16273b7.gif" alt="2026年09月20日 オールカマーの注目馬6頭: レガレイラ、コスモキュランダ、エセルフリーダ、ジューンテイク、パンジャ、キャントウェイト" width="560" />
+<!--END_SECTION:featured-race-->
 
 ---
 

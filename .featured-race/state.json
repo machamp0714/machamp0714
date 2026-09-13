@@ -1,5 +1,5 @@
 {
-  "display_digest": "ead00302c08c",
+  "display_digest": "dafb427c12ce",
   "display_stage": 1,
   "featured": [
     {
@@ -52,7 +52,7 @@
     }
   ],
   "message": "注目の6頭",
-  "observed_at": "2026-09-13T19:05:53.168301+09:00",
+  "observed_at": "2026-09-13T19:13:36.050825+09:00",
   "race": {
     "condition": "3歳上 別定",
     "course": "中山",
@@ -64,7 +64,7 @@
     "special_id": "0096",
     "surface": "芝"
   },
-  "renderer_version": "pixel-card-v1",
+  "renderer_version": "pixel-card-v2",
   "reserves": [
     {
       "bracket": null,

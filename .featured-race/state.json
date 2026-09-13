@@ -1,0 +1,31 @@
+{
+  "display_digest": "eb3d9746f803",
+  "display_stage": 0,
+  "featured": [],
+  "message": "注目馬を選定中",
+  "observed_at": "2026-09-13T16:04:19.510691+09:00",
+  "race": {
+    "condition": "3歳上 別定",
+    "course": "中山",
+    "date": "2026-09-20",
+    "distance": 2200,
+    "grade": "GII",
+    "name": "オールカマー",
+    "race_id": null,
+    "special_id": null,
+    "surface": "芝"
+  },
+  "renderer_version": "pixel-card-v1",
+  "reserves": [],
+  "schema_version": 1,
+  "selected_at": null,
+  "selection_version": null,
+  "sources": [
+    {
+      "fetched_at": "2026-09-13T16:04:19.510691+09:00",
+      "url": "https://race.netkeiba.com/top/schedule.html"
+    }
+  ],
+  "status": "pending",
+  "target_date": "2026-09-20"
+}

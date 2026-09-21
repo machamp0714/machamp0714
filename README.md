@@ -1,7 +1,7 @@
 ## Hey, machamp here! :wave:
 
 <!--START_SECTION:featured-race-->
-<img src="./assets/featured-race-20260920-5a1948fbd16c.gif" alt="2026年09月20日 オールカマーの注目馬6頭: レガレイラ、コスモキュランダ、エセルフリーダ、ジューンテイク、パンジャ、キャントウェイト" width="840" />
+<img src="./assets/featured-race-20260927-944bda786bf7.gif" alt="2026年09月27日 スプリンターズステークスの注目馬を選定中" width="840" />
 <!--END_SECTION:featured-race-->
 
 ---

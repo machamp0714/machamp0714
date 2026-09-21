@@ -1,113 +1,31 @@
 {
-  "display_digest": "5a1948fbd16c",
-  "display_stage": 2,
-  "featured": [
-    {
-      "bracket": 5,
-      "horse_id": "2021105898",
-      "horse_name": "レガレイラ",
-      "horse_number": 7,
-      "reason": "産経賞オールカマー(GII)を過去に勝利しており当該コース実績あり。有馬記念4着、エリザベス女王杯1着などGIでも上位実績、同コース5戦3勝3回3着内と信頼度が高い。",
-      "slot": "A"
-    },
-    {
-      "bracket": 6,
-      "horse_id": "2021106787",
-      "horse_name": "コスモキュランダ",
-      "horse_number": 9,
-      "reason": "宝塚記念4着、有馬記念2着とGIで上位実績豊富。同コース10戦1勝7回3着内と崩れにくく、対象距離2200-2500mでの経験も豊富。",
-      "slot": "B"
-    },
-    {
-      "bracket": 8,
-      "horse_id": "2021105138",
-      "horse_name": "エセルフリーダ",
-      "horse_number": 12,
-      "reason": "中山牝馬S(GIII)1着、初富士S1着と近走絶好調。同コース5戦4勝4回3着内と中山芝2200m前後の適性が非常に高い。",
-      "slot": "C"
-    },
-    {
-      "bracket": 8,
-      "horse_id": "2021100913",
-      "horse_name": "ジューンテイク",
-      "horse_number": 13,
-      "reason": "京都記念(GII)1着、宝塚記念8着とGIでも通用する力を示す。近走の東海テレビ杯金鯱賞4着も内容良く、対象距離での実績豊富。",
-      "slot": "D"
-    },
-    {
-      "bracket": 5,
-      "horse_id": "2021105155",
-      "horse_name": "パンジャ",
-      "horse_number": 6,
-      "reason": "サンシャインS(3勝クラス)1着など近走安定。同コース7戦3勝4回3着内と中山芝2200mへの適性が高い。",
-      "slot": "E"
-    },
-    {
-      "bracket": 1,
-      "horse_id": "2021102800",
-      "horse_name": "キャントウェイト",
-      "horse_number": 1,
-      "reason": "オールスターJ第2戦1着と直近好調。対象距離21戦4勝9回3着内と実績があり、格上挑戦での上積みが期待できる。",
-      "slot": "F"
-    }
-  ],
-  "message": "注目の6頭",
-  "observed_at": "2026-09-18T21:35:38.513877+09:00",
+  "display_digest": "944bda786bf7",
+  "display_stage": 0,
+  "featured": [],
+  "message": "注目馬を選定中",
+  "observed_at": "2026-09-21T09:35:38.049366+09:00",
   "race": {
-    "condition": "3歳上 別定",
+    "condition": "3歳上 定量",
     "course": "中山",
-    "date": "2026-09-20",
-    "distance": 2200,
-    "grade": "GII",
-    "name": "オールカマー",
-    "race_id": "202606040611",
-    "special_id": "0096",
+    "date": "2026-09-27",
+    "distance": 1200,
+    "grade": "GI",
+    "name": "スプリンターズステークス",
+    "race_id": null,
+    "special_id": "0099",
     "surface": "芝"
   },
   "renderer_version": "pixel-card-v5",
-  "reserves": [
-    {
-      "bracket": 3,
-      "horse_id": "2020105633",
-      "horse_name": "リビアングラス",
-      "horse_number": 3,
-      "reason": "日経新春杯3着など近年GIIで好走歴あり。ただし直近は6着11着と一息、同コースは4戦未勝利。",
-      "slot": "R1"
-    },
-    {
-      "bracket": 2,
-      "horse_id": "2018101660",
-      "horse_name": "ワイドエンペラー",
-      "horse_number": 2,
-      "reason": "当該オールカマーでの実績があるが近走は7着11着15着と成績が下降気味。",
-      "slot": "R2"
-    },
-    {
-      "bracket": 4,
-      "horse_id": "2020101025",
-      "horse_name": "アスクドゥポルテ",
-      "horse_number": 5,
-      "reason": "対象距離では4勝10回3着内と実績十分だが、近走は12着12着6着と精彩を欠く。",
-      "slot": "R3"
-    },
-    {
-      "bracket": 7,
-      "horse_id": "2021106782",
-      "horse_name": "コスモブッドレア",
-      "horse_number": 10,
-      "reason": "同コース6戦2勝3回3着内と適性はあるが、近走は16着11着14着14着と大きく崩れている。",
-      "slot": "R4"
-    }
-  ],
+  "reserves": [],
   "schema_version": 1,
-  "selected_at": "2026-09-13T19:05:53.168301+09:00",
-  "selection_version": "featured-race-v1",
+  "selected_at": null,
+  "selection_version": null,
   "sources": [
     {
-      "fetched_at": "2026-09-13T19:05:53.168301+09:00",
-      "url": "https://own.netkeiba.com/race/shutuba.html?race_id=202606040611"
+      "fetched_at": "2026-09-21T09:35:38.049366+09:00",
+      "url": "https://race.netkeiba.com/special/index.html?id=0099"
     }
   ],
-  "status": "selected",
-  "target_date": "2026-09-20"
+  "status": "pending",
+  "target_date": "2026-09-27"
 }

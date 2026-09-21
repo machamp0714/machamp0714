@@ -1,9 +1,5 @@
 ## Hey, machamp here! :wave:
 
-<!--START_SECTION:featured-race-->
-<img src="./assets/featured-race-20260927-944bda786bf7.gif" alt="2026年09月27日 スプリンターズステークスの注目馬を選定中" width="840" />
-<!--END_SECTION:featured-race-->
-
 ---
 
 <h3>🔍 Where to find me</h3>
